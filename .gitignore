@@ -2,3 +2,5 @@
 .vs*
 launch.json
 .DS*
+**.egg-info/
+resources/
